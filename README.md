@@ -1,2 +1,2 @@
 # hello-world
-First Repository
+In the editor, write a bit about yourself(с)
